@@ -9,3 +9,4 @@ this directory contains scripts
 7- script 7-movethatfile that Move the file betty from /tmp/ to /tmp/my-first-directory.
 8- script 8-firstdelete that Delete the file betty.
 9- script 9-firstdirdeletion that Delete the directory my_first_directory that is in the /tmp directory.
+10- script 10-back that changes the working directory to the previous one.
