@@ -7,3 +7,4 @@ this directory contains scripts
 5 - script 5-listfilesdigitonly that Display current directory contents with user and group IDs displayed numerically.
 6- script first directory that creates a directory named my-first-directory in the /tmp/ directory.
 7- script 7-movethatfile that Move the file betty from /tmp/ to /tmp/my-first-directory.
+8- script 8-firstdelete that Delete the file betty.
