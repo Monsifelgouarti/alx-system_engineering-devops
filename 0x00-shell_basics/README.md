@@ -3,3 +3,4 @@ this directory contains scripts
 2- script 1-listit that Display the contents list of your current directory.
 3- script 2-bring-me-home that changes the working directory to the user’s home directory.
 4- script 3-listfiles that Display current directory contents in a long format.
+5- script 4-listmorefiles that Display current directory contents, including hidden files (starting with .). Use the long format.
