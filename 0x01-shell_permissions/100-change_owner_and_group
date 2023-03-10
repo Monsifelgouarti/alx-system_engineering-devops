@@ -1,0 +1,3 @@
+#!/bin/bash
+chown vincent -type f *
+chgrp staff -type d *
