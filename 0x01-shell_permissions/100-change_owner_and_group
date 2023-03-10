@@ -1,3 +1,2 @@
 #!/bin/bash
-chown vincent -type f *
-chgrp staff -type d *
+sudo chown vincent:staff *
