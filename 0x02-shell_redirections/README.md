@@ -11,3 +11,4 @@ Project 0x02. Shell, I/O Redirections and filters
 9- Script 9-duplicate_last_line that duplicates the last line of the file iacta.
 10- Script 10-no_more_js that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 11- Script 11-directories  that counts the number of directories and sub-directories in the current directory.
+12- Script 12-newest_files that displays the 10 newest files in the current directory.
