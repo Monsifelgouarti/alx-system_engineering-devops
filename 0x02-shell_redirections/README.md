@@ -8,3 +8,4 @@ Project 0x02. Shell, I/O Redirections and filters
 6- Script 6-third_line that displays the third line of the file iacta.
 7- Script 7-file that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 8- Script 8-cwd_state that writes into the file ls_cwd_content the result of the command ls -la.
+9- Script 9-duplicate_last_line that duplicates the last line of the file iacta.
