@@ -1,0 +1,2 @@
+#!/bin/bash
+echp $((128+$TRUEKNOWLEDGE))
