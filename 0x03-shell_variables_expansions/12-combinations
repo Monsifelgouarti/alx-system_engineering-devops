@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {{a..m}{a..m},{p..z}{p..z}}
