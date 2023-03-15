@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {{a..m}{a..m},{p..z}{p..z}}
+echo -e {{a..m}{a..m\n},{p..z}{p..z\n}}
