@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e {{a..m}{a..m\n},{p..z}{p..z\n}}
+printf "{{a..m}{a..m\n},{p..z}{p..z\n}}"
