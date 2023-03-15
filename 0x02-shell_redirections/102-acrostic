@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -b 1 | tr -d '\n' | tr '|' '\n'
+cut -b 1 | tr -s '\n' ' ' | sed '$s/ $/\n/' | tr -d ' '
